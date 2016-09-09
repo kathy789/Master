@@ -1,0 +1,53 @@
+     Product Backlog --Team 16
+
+Project Name: Hop
+Team member:
+Yuanyuan Ji
+Junran Xu
+Dongji Cui 
+Jiaqi Zhu
+
+Problem Statement:
+Nowadays, listening music has become a part of people’s daily life. Instead of passive listening, people prefer to actively get involve in the music such as dancing to the music. Our team would like to develop a game which bonds music and game together, which makes it possible to play game while following the rhythm. 
+
+
+Background Information:
+There are a varieties of music applications available on the markets, such as, Beat Gather which is the most popular game on Apple Store. Most of music games mainly provide players one focus on hitting objects and constrain them to hit the targets in a certain area at the bottom of game scene, which would definitely decrease the importance of the rhythm.
+Instead, our music game more focus on rhythm and provides separated moving areas to hit according to the rhythm. So our game would require players following the rhythm more closely. With such property, our games would train people multi-tasking skills according sound from different instruments. 
+
+Functional Requirement:
+
+As a user, I would like to: 
+
+1.	to have a tutorial of the game.
+2.	to be able to import songs in my device into the program and play with it.
+3.	to play with officially provided song.
+4.	to use in-game item to overcome the difficulty.
+5.	to be able to adjust difficulty of the game.
+	
+If time allows:
+1.	to create and access my account information.
+2.	to make my account secure (by have a password).
+3.	to have the account linked to some social media account (google, Facebook, twitter).
+4.	to join competition with other players.
+5.	to share the score with friend.
+6.	to use online friend system.
+
+As developer, I would like to:
+
+1.To provide players high quality songs that match beats’ patterns.
+2.To create server and save all users’ data.
+3.To allow free difficulties adjusted by users.
+4.To display song’s information that player want to play with.
+
+If time allows:
+5.To collect feedbacks from users about this game.
+6.To create scores ranking for users
+7.To encrypt our own music files for security purpose
+
+
+Non-functional
+1.We must be able to play this game on IOS device.
+2.The interface should be simple and user friendly.
+3.We should have multi-thread program structure to make should there has no lag during the game play. 
+4. As a user, I would like to have fast response time and efficient use of bandwidth (time permitting).
